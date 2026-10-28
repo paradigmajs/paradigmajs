@@ -131,17 +131,22 @@ Correctness, observability, access control, deployments, regression testing, per
 
 </details>
 
-### `05 // GITHUB TELEMETRY`
+### `05 // ENGINEERING SIGNALS`
 
 <div align="center">
 
-<a href="https://github.com/paradigmajs">
-<img src="https://github-readme-stats.vercel.app/api?username=paradigmajs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C7D2E2&icon_color=A5B4FC&include_all_commits=true" width="53%" alt="Public GitHub statistics"/>
+**Real work is more than a contribution counter.**
+
+| 9 years | Web + Mobile | Backend + Data | Architecture |
+| :---: | :---: | :---: | :---: |
+| Experience | React · React Native | Node.js · Python · Django | CRM · APIs · Integrations |
+
+<a href="https://github.com/paradigmajs?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View live GitHub activity"/>
 </a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradigmajs&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C7D2E2&langs_count=8" width="42%" alt="Languages detected in public repositories"/>
-
-<sub>Language percentages describe repository code, not developer proficiency. GitHub widgets may temporarily rate-limit or fail; private work is not fully reflected.</sub>
+<a href="https://github.com/paradigmajs?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_PUBLIC_CODE-0F172A?style=for-the-badge&logo=github&logoColor=A5B4FC" alt="Explore public repositories"/>
+</a>
 
 ### Contribution snake
 
@@ -150,6 +155,8 @@ Correctness, observability, access control, deployments, regression testing, per
 <source media="(prefers-color-scheme:light)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake.svg"/>
 <img src="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
 </picture>
+
+<sub>For live contributions and repository metrics, use GitHub's own profile pages. Client and private work is not fully reflected in public activity.</sub>
 
 </div>
 
