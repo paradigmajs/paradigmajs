@@ -1,47 +1,74 @@
-# ⚡ System.init("Adam")
-
 <div align="center">
-  <h1>🚀 Fullstack Developer | 9 Years Exp</h1>
-  <h3>Architect & Problem Solver</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:080B16,50:152144,100:0B0F1C&text=ADAM%20%2F%2F%20PARADIGMA&fontColor=E8F5FF&fontSize=42&fontAlignY=43&desc=FULLSTACK%20ENGINEER%20%E2%80%A2%20SYSTEM%20ARCHITECT&descSize=16&descAlignY=69&animation=fadeIn" alt="Adam | Fullstack Engineer" />
+
+<a href="https://github.com/paradigmajs"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=58&lines=I+build+systems%2C+not+just+screens.;From+idea+to+production.;Complex+logic.+Clean+architecture.;9+years+of+engineering+experience." alt="Animated developer introduction" /></a>
+
+<a href="https://github.com/paradigmajs"><img src="https://img.shields.io/badge/GitHub-paradigmajs-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/paradigma_dev/"><img src="https://img.shields.io/badge/Instagram-paradigma__dev-111827?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram" /></a>
+<a href="https://github.com/paradigmajs?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0E7490?style=for-the-badge&logo=githubactions&logoColor=white" alt="Projects" /></a>
 </div>
 
----
+whoami
+const adam = {
+  title: "Senior Fullstack Engineer & System Architect",
+  experience: "9 years",
+  mindset: "Solve the business problem. Engineer the right system.",
+  focus: [
+    "Scalable web platforms",
+    "Cross-platform mobile applications",
+    "Custom CRM & enterprise software",
+    "API architecture & complex integrations",
+  ],
+  delivery: "Discovery → Architecture → Development → Production",
+} as const;
+I turn complicated business requirements into software people actually use. I work across product architecture, frontend, backend and mobile, with ownership beyond the first commit.
 
-### 🖥️ Main_Module.log
+engineering / capabilities
+Layer	What I build
+01 / Product & architecture	Technical specifications, data models, system design, integration planning
+02 / Frontend	Responsive, accessible, performance-conscious interfaces
+03 / Mobile	Cross-platform apps and production-focused user flows
+04 / Backend	APIs, authorization, business logic, realtime services and integrations
+05 / Enterprise	CRM systems, admin panels, internal tools and workflow automation
 
-* **Senior Fullstack Engineer** — 9 years of transforming complex business logic into clean, scalable, production-ready code.
-* **Architectural Mindset** — I don't just write code; I architect custom CRM systems, write technical specifications, and build complex integrations from scratch.
-* **End-to-End Delivery** — Managing the full lifecycle of development, from high-performance mobile applications to robust server logic and databases.
 
----
-
-### 🛠️ Tech Stack & Arsenal
-
-#### 📱 Frontend & Mobile
-`JavaScript` `TypeScript` `React` `React Native`
-
-#### ⚙️ Backend & Database
-`Node.js` `Express` `MongoDB`
-
-```text
-=====================================================================
-[CORE CAPABILITIES]
-├── Mobile Apps      (Cross-platform high-performance apps via RN)
-├── Websites & Web   (Modern, responsive and fast web applications)
-├── Backend & APIs   (Secure, scalable Express architecture)
-└── Enterprise       (Custom CRM, complex integrations & technical specs)
-=====================================================================
-```
-
----
-
-### 📞 Connect_With_Me
-
-🌐 **[Telegram](https://t.me)** | **[LinkedIn](https://linkedin.com)** | **[Resume](YOUR_RESUME_LINK)**
-
----
-
-### 📊 GitHub Activity
+stack / currently shipping with
 <div align="center">
-  <img src="https://vercel.app" alt="Adam's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,vite,html,css,nodejs,express,mongodb,git,docker&theme=dark&perline=6" alt="Technology stack" />
+</div>
+
+
+┌─ SYSTEM.STATUS ───────────────────────────────────────────┐
+│  ENGINEERING       ████████████████████  ACTIVE          │
+│  ARCHITECTURE      ████████████████████  ACTIVE          │
+│  DELIVERY          ████████████████████  ACTIVE          │
+│                                                          │
+│  BUILD > SHIP > LEARN > IMPROVE                          │
+└──────────────────────────────────────────────────────────┘
+github / telemetry
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=paradigmajs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA" alt="GitHub statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradigmajs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Most used public repository languages" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=paradigmajs&bg_color=0d1117&color=9ecbff&line=38bdf8&point=a78bfa&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+</div>
+
+contributions / snake.exe
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake.svg" />
+    <img alt="Animated contribution snake (generated by GitHub Actions)" src="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" width="95%" />
+  </picture>
+</div>
+
+contact / open_channel
+I'm interested in engineering challenges, product architecture, and custom software for businesses.
+
+Explore my repositories · Connect on Instagram
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0B0F1C,50:152144,100:080B16&text=BUILD%20WITH%20INTENT.%20SHIP%20WITH%20CONFIDENCE.&fontColor=7DD3FC&fontSize=17&fontAlignY=50&animation=twinkling" alt="Build with intent. Ship with confidence." />
 </div>
