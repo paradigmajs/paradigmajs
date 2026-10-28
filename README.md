@@ -1,7 +1,8 @@
 # ⚡ System.init("Adam")
 
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <h1>🚀 Fullstack Developer | 9 Years Exp</h1>
+  <h3>Architect & Problem Solver</h3>
 </div>
 
 ---
@@ -16,15 +17,11 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-<p align="left">
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-  <img src="https://shields.io" height="35" />
-</p>
+#### 📱 Frontend & Mobile
+`JavaScript` `TypeScript` `React` `React Native`
+
+#### ⚙️ Backend & Database
+`Node.js` `Express` `MongoDB`
 
 ```text
 =====================================================================
@@ -40,20 +37,11 @@
 
 ### 📞 Connect_With_Me
 
-<p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" height="35" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" height="35" />
-  </a>
-  <a href="YOUR_RESUME_LINK" target="_blank">
-    <img src="https://shields.io📝-FF5722?style=for-the-badge" height="35" />
-  </a>
-</p>
+🌐 **[Telegram](https://t.me)** | **[LinkedIn](https://linkedin.com)** | **[Resume](YOUR_RESUME_LINK)**
 
-<br />
+---
 
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
+  <img src="https://vercel.app" alt="Adam's GitHub Stats" />
 </div>
