@@ -50,6 +50,8 @@ const adam = {
 | Jump to | What you'll find |
 | :-- | :-- |
 | [🚀 Selected work](#-selected-work) | Expandable project areas and engineering challenges |
+| [🎓 Teaching & mentorship](#-teaching--mentorship) | Classroom examples and educational resources |
+| [📘 Engineering case studies](CASE_STUDIES.md) | Technical write-ups and architecture diagrams |
 | [🛠️ Tech stack](#-tech-stack) | Technologies and tools |
 | [🏗️ How I build](#-how-i-build) | Architecture and development process |
 | [💼 What I deliver](#-what-i-deliver) | Services and business solutions |
@@ -112,6 +114,24 @@ Browse [public repositories](https://github.com/paradigmajs?tab=repositories), i
 
 These are public code references, **not** presented as commercial case studies.
 </details>
+
+## 🎓 Teaching & mentorship
+
+I also teach software development. Some of the smaller public repositories are **educational examples, exercises and classroom materials**, not abandoned commercial products.
+
+My teaching material covers practical web development and programming fundamentals, including JavaScript, React, APIs and hands-on exercises.
+
+**Browse teaching-related code:**
+
+- [JavaScript calculator](https://github.com/paradigmajs/calculator) · small focused example
+- [React To-Do](https://github.com/paradigmajs/todo-react) · React practice
+- [DOM dropdown](https://github.com/paradigmajs/drop_down) · interface exercise
+- [Weather with React / Redux](https://github.com/paradigmajs/weatherReactreduxForStudents) · teaching repository
+- [React Native cocktails](https://github.com/paradigmajs/REACTNATIVE_COCTAILS) · mobile practice
+
+These are learning resources. Simplicity is intentional, and they shouldn't be judged as production-grade architecture.
+
+**[See the engineering case studies →](CASE_STUDIES.md)**
 
 ## 🛠️ Tech stack
 
