@@ -50,7 +50,6 @@ const adam = {
 | Jump to | What you'll find |
 | :-- | :-- |
 | [🚀 Selected work](#-selected-work) | Expandable project areas and engineering challenges |
-| [🎓 Teaching & mentorship](#-teaching--mentorship) | Classroom examples and educational resources |
 | [📘 Engineering case studies](CASE_STUDIES.md) | Technical write-ups and architecture diagrams |
 | [🛠️ Tech stack](#-tech-stack) | Technologies and tools |
 | [🏗️ How I build](#-how-i-build) | Architecture and development process |
@@ -106,33 +105,6 @@ A selection of the **types of products and technical challenges I work with**. C
 **Approach:** establish the event contract first, keep the server authoritative and handle retries deliberately.
 </details>
 
-<details>
-<summary><b>🧪 Public code & experiments</b> · GitHub repositories</summary>
-<br/>
-
-Browse [public repositories](https://github.com/paradigmajs?tab=repositories), including [three.js](https://github.com/paradigmajs/three.js), [REST API experiments with NestJS and PostgreSQL](https://github.com/paradigmajs/rest-nestjs-postgres), and [React Native experiments](https://github.com/paradigmajs/REACTNATIVE_COCTAILS).
-
-These are public code references, **not** presented as commercial case studies.
-</details>
-
-## 🎓 Teaching & mentorship
-
-I also teach software development. Some of the smaller public repositories are **educational examples, exercises and classroom materials**, not abandoned commercial products.
-
-My teaching material covers practical web development and programming fundamentals, including JavaScript, React, APIs and hands-on exercises.
-
-**Browse teaching-related code:**
-
-- [JavaScript calculator](https://github.com/paradigmajs/calculator) · small focused example
-- [React To-Do](https://github.com/paradigmajs/todo-react) · React practice
-- [DOM dropdown](https://github.com/paradigmajs/drop_down) · interface exercise
-- [Weather with React / Redux](https://github.com/paradigmajs/weatherReactreduxForStudents) · teaching repository
-- [React Native cocktails](https://github.com/paradigmajs/REACTNATIVE_COCTAILS) · mobile practice
-
-These are learning resources. Simplicity is intentional, and they shouldn't be judged as production-grade architecture.
-
-**[See the engineering case studies →](CASE_STUDIES.md)**
-
 ## 🛠️ Tech stack
 
 <div align="center">
@@ -184,24 +156,23 @@ Handle deployment configuration, integration testing, production behavior, user 
 
 > I prefer systems that are clear to operate, realistic to maintain, and designed around how people actually work.
 
-## 📊 GitHub telemetry
+## 📊 GitHub activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paradigmajs&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA" height="170" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradigmajs&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" height="170" alt="Public repository language usage"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paradigmajs&bg_color=0d1117&color=9ecbff&line=38bdf8&point=a78bfa&area=true&hide_border=true" width="95%" alt="Contribution graph"/>
+<a href="https://github.com/paradigmajs?tab=overview">
+<img src="https://img.shields.io/badge/VIEW_LIVE_GITHUB_ACTIVITY-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub contributions" />
+</a>
 
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" width="95%" alt="Animated contribution snake"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/paradigmajs/paradigmajs/output/github-snake-dark.svg" width="95%" alt="Animated GitHub contribution snake" />
 </picture>
 
-<sub>Public GitHub metrics are not a measure of the full scope of private and client projects.</sub>
+<sub>GitHub's native contribution activity is the source of truth. Private client work isn't represented by public counts.</sub>
 
 </div>
 
