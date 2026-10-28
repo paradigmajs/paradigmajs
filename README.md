@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:070B16,50:102944,100:0B1120&text=ADAM%20%2F%2F%20PARADIGMA&fontColor=E5F6FF&fontSize=43&fontAlignY=38&desc=FULLSTACK%20ENGINEER%20%7C%20SYSTEM%20ARCHITECT&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Adam | Fullstack Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:EAF2FC,50:DCE9FA,100:C9DBF1&text=ADAM%20%2F%2F%20PARADIGMA&fontColor=243954&fontSize=43&fontAlignY=38&desc=FULLSTACK%20ENGINEER%20%7C%20SYSTEM%20ARCHITECT&descSize=16&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Adam | Fullstack Engineer" />
 
-<a href="#-about"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=38BDF8&center=true&vCenter=true&width=790&height=60&lines=9+years+engineering+digital+products.;I+build+systems%2C+not+just+screens.;Architecture+%E2%86%92+Code+%E2%86%92+Production.;Complex+logic.+Clean+execution." alt="Animated developer headline"/></a>
+<a href="#-about"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2700&pause=900&color=4668B2&center=true&vCenter=true&width=790&height=60&lines=9+years+engineering+digital+products.;I+build+systems%2C+not+just+screens.;Architecture+%E2%86%92+Code+%E2%86%92+Production.;Complex+logic.+Clean+execution." alt="Animated developer headline"/></a>
 
 <br/>
 
@@ -24,6 +24,12 @@
 
 ---
 
+<div align="center">
+
+<img src="assets/neumorphic-dashboard.svg" width="100%" alt="Animated soft-neumorphic engineering control panel"/>
+
+</div>
+
 ## 👨‍💻 About
 
 **Senior Fullstack Engineer & System Architect** with **9 years of experience** building business-focused software.
@@ -42,7 +48,7 @@ const adam = {
 ```
 
 <div align="center">
-  <img src="assets/architecture-flow.svg" width="100%" alt="Animated original architecture diagram: product, UI, API, data and delivery"/>
+  <img src="assets/architecture-flow.svg" width="100%" alt="Animated engineering architecture: product, UI, API, data and delivery"/>
 </div>
 
 ## 🧭 Interactive navigation
@@ -156,6 +162,14 @@ Handle deployment configuration, integration testing, production behavior, user 
 
 > I prefer systems that are clear to operate, realistic to maintain, and designed around how people actually work.
 
+## ✨ Live system signals
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=607AAA&center=true&vCenter=true&width=790&height=50&lines=SYSTEM_STATUS%3A+BUILDING+THE+NEXT+THING;GOOD+SOFTWARE+IS+MORE+THAN+GOOD+UI;PROTOTYPE+%E2%86%92+PRODUCT+%E2%86%92+PRODUCTION" alt="Animated system messages"/>
+
+</div>
+
 ## 📊 GitHub activity
 
 <div align="center">
@@ -186,6 +200,6 @@ Have a product, integration or architecture challenge worth solving?
 <a href="https://github.com/paradigmajs?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORE_CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
 
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:070B16,50:102944,100:0B1120" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:EAF2FC,50:DCE9FA,100:C9DBF1" width="100%" alt="Footer"/>
 
 </div>
