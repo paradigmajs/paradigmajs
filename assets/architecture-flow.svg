@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 320" role="img" aria-label="Animated product architecture pipeline: Product, Frontend, API, Data, Production">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080F20"/><stop offset="1" stop-color="#0D2035"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+<pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#6BA2C2" stroke-opacity=".10"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.label{font-size:16px;font-weight:700;fill:#E2E8F0}
+.meta{font-size:11px;fill:#91A6BF;letter-spacing:1.2px}
+.panel{fill:#0C192C;stroke:#28415D;stroke-width:1.5}
+.connector{fill:none;stroke:url(#edge);stroke-width:2;stroke-dasharray:8 9;animation:dash 8s linear infinite}
+.node{fill:#38BDF8;filter:url(#glow);animation:pulse 2.8s ease-in-out infinite}
+@keyframes dash{to{stroke-dashoffset:-136}}
+@keyframes pulse{0%,100%{opacity:.55}50%{opacity:1}}
+</style>
+</defs>
+<rect width="1040" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1040" height="320" rx="18" fill="url(#grid)"/>
+<rect x="18" y="17" width="1004" height="286" rx="12" fill="none" stroke="#254561"/>
+<circle cx="43" cy="40" r="5" fill="#FB7185"/><circle cx="62" cy="40" r="5" fill="#FBBF24"/><circle cx="81" cy="40" r="5" fill="#34D399"/>
+<text x="105" y="45" font-size="12" fill="#8EABC6">paradigma@engineering: ~/architecture</text>
+<text x="35" y="92" font-size="21" font-weight="700" fill="#E2E8F0">FROM IDEA TO PRODUCTION</text>
+<text x="35" y="115" font-size="12" fill="#7DD3FC">Design for the business. Build for the real world.</text>
+<path class="connector" d="M207 192H244 M392 192H429 M577 192H614 M762 192H799"/>
+<g><rect class="panel" x="34" y="150" width="173" height="85" rx="12"/><text class="label" x="51" y="186">01 / PRODUCT</text><text class="meta" x="51" y="206">DISCOVERY</text><circle class="node" cx="192" cy="166" r="4"/></g>
+<g><rect class="panel" x="244" y="150" width="148" height="85" rx="12"/><text class="label" x="261" y="186">02 / UI</text><text class="meta" x="261" y="206">REACT · RN</text><circle class="node" cx="377" cy="166" r="4"/></g>
+<g><rect class="panel" x="429" y="150" width="148" height="85" rx="12"/><text class="label" x="446" y="186">03 / API</text><text class="meta" x="446" y="206">NODE · TS</text><circle class="node" cx="562" cy="166" r="4"/></g>
+<g><rect class="panel" x="614" y="150" width="148" height="85" rx="12"/><text class="label" x="631" y="186">04 / DATA</text><text class="meta" x="631" y="206">MONGODB</text><circle class="node" cx="747" cy="166" r="4"/></g>
+<g><rect class="panel" x="799" y="150" width="207" height="85" rx="12"/><text class="label" x="816" y="186">05 / DELIVERY</text><text class="meta" x="816" y="206">DEPLOY · OPERATE</text><circle class="node" cx="991" cy="166" r="4"/></g>
+<text x="35" y="274" font-size="12" fill="#34D399">● SYSTEM ONLINE</text><text x="1005" y="274" font-size="12" fill="#91A6BF" text-anchor="end">ARCHITECTURE / ENGINEERING / DELIVERY</text>
+</svg>
